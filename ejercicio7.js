@@ -26,30 +26,3 @@ console.log(genero);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* let resultado = {};
-
-
-for (let i = 0; i < starWarsMovies.length; i++){
-  let decada = Math.floor(starWarsMovies[i].releaseYear / 10) * 10;
-
-  if(resultado[decada]){
-    resultado[decada].push(starWarsMovies[i].title);
-  } else {
-    resultado[decada] = [starWarsMovies[i].title];
-  }
-} */
