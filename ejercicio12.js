@@ -12,7 +12,7 @@ const mutants = [
 ];
 
 function findMutantByPower(mutants, power) {
-  poder = [];
+  let poder = [];
   for (let i = 0; i < mutants.length; i++){
     if(mutants[i].power === power){
       poder.push(mutants[i].name);
